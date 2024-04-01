@@ -1,5 +1,5 @@
-                                                                                                                                                                       NAME : DEVA ABISHEK P
-                                                                                                                                                                       REG.NO: 212223110008
+                                                                                                                                                         NAME : DEVA ABISHEK P
+                                                                                                                                                         REG.NO: 212223110008
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
